@@ -4,6 +4,7 @@
 [![npm version](https://img.shields.io/npm/v/svelte.svg)](https://www.npmjs.com/package/svelte) [![license](https://img.shields.io/npm/l/svelte.svg)](LICENSE.md) [![Chat](https://img.shields.io/discord/457912077277855764?label=chat&logo=discord)](https://svelte.dev/chat)
 
 
+
 ## What is Svelte?
 
 Svelte is a new way to build web applications. It's a compiler that takes your declarative components and converts them into efficient JavaScript that surgically updates the DOM.
@@ -18,6 +19,7 @@ Svelte is an MIT-licensed open source project with its ongoing development made 
 - [Becoming a backer on Open Collective](https://opencollective.com/svelte).
 
 Funds donated via Open Collective will be used for compensating expenses related to Svelte's development such as hosting costs. If sufficient donations are received, funds may also be used to support Svelte's development more directly.
+
 
 
 ## Development
